@@ -104,6 +104,5 @@ Kindly place the `LocationDataset.csv` file in a location accessible to DSS (e.g
 - **Official DSS Documentation**: [Dataiku DSS Docs](https://doc.dataiku.com/)  
 - **Video Reference**: [Watch Now](https://youtu.be/iNEpaDp2xxU)  
 - **Location Dataset**: [LocationDataset.csv](https://trello.com/1/cards/623875f4afab8d12d53137fb/attachments/629da3d83c56ec0d92fb280d/download/LocationDataset.csv)  
-- **Sample Video Recording**: [Similar Format Example](https://youtu.be/iNEpaDp2xxU)
 
 
